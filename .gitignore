@@ -1,0 +1,29 @@
+# Created by https://www.toptal.com/developers/gitignore/api/data,text
+# Edit at https://www.toptal.com/developers/gitignore?templates=data,text
+
+### Data ###
+*.csv
+*.dat
+*.efx
+*.gbr
+*.key
+*.pps
+*.ppt
+*.pptx
+*.sdf
+*.tax2010
+*.vcf
+*.xml
+
+### Text ###
+*.doc
+*.docx
+*.log
+*.msg
+*.pages
+*.rtf
+*.txt
+*.wpd
+*.wps
+
+# End of https://www.toptal.com/developers/gitignore/api/data,text
