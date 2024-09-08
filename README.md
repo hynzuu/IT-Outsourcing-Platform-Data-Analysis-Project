@@ -1,6 +1,6 @@
 # IT Outsourcing Platform Data Analysis Project
 ![1](https://github.com/user-attachments/assets/f29448d8-16b3-4d5d-9bcf-df73d2506450)
-![2](https://github.com/user-attachments/assets/e9d62263-07d5-4479-a36e-f93845b06a73)
+![목차](https://github.com/user-attachments/assets/02b4304c-e8ca-4bbf-ba0c-ecaa624ccd67)
 ![3](https://github.com/user-attachments/assets/e98db3ca-cf2d-4571-b683-a0f2fb9c9524)
 ![4](https://github.com/user-attachments/assets/ddf67d3f-daeb-43a0-9e98-54436144daf0)
 ![5](https://github.com/user-attachments/assets/527fd707-21e8-4016-8f6c-14bf9fa603a5)
