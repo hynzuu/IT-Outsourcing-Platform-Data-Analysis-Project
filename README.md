@@ -1,4 +1,4 @@
-
+IT 아웃소싱 플랫폼 L사 수수료 체계 개선 및 정보 비대칭 해소 전략
 # IT Outsourcing Platform Data Analysis Project
 ![1](https://github.com/user-attachments/assets/f29448d8-16b3-4d5d-9bcf-df73d2506450)
 ![목차](https://github.com/user-attachments/assets/02b4304c-e8ca-4bbf-ba0c-ecaa624ccd67)
